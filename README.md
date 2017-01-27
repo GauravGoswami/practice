@@ -1,1 +1,2 @@
-#practice
+This repository contains practice coding problems and their solutions in C++, Java, and Python. I might add solutions in other languages in the future as well as test case and wrapper files to run the
+solution files on test cases and perform testing automatically. This is primarily for my own personal record and practice.
